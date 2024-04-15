@@ -1,9 +1,9 @@
 ### Hi Visitor 👋
 
 # 💫 About Me:
-😺I'm an VietNam developer 🧑‍💻 and designer 🎨<br>
-🔭 I’m currently studying on Duy Tan University<br>
-🌱 I’m currently learning JS, HTML and CSS for my Front-end, Back-end and Full-Stacks<br>
+😺I'm a VietNam developer 🧑‍💻 and designer 🎨<br>
+🔭 I’m currently studying on *Duy Tan University*<br>
+🌱 I’m currently learning *Front-end*, *Back-end* and *Full-Stack*<br>
 📫 How to reach me: You can contact me through my email **canhdongtuyet39@gmail.com**<br>
 😄 Pronouns: He/him<br>
 ![rin drinking](https://github.com/HarryNguyen6678/HarryNguyen6678/assets/103439893/f4433af0-3c0b-4522-944f-3688876865a2)<br>
