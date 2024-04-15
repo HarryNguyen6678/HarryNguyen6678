@@ -6,7 +6,7 @@ I'm an VietNam developer 🧑‍💻 and designer 🎨
 🌱 I’m currently learning JS, HTML and CSS for my Front-end, Back-end and Full-Stacks<br>
 📫 How to reach me: You can contact me through my email "canhdongtuyet39@gmail.com"<br>
 😄 Pronouns: He/him<br>
-<img align="center" alt="Tenki" src="https://giphy.com/gifs/alltheanimeuk-screen-anime-limited-all-the-MCLqbKjXuZWyHf0msw">
+<img src="https://giphy.com/gifs/alltheanimeuk-screen-anime-limited-all-the-MCLqbKjXuZWyHf0msw">
 [![](https://visitcount.itsvg.in/api?id=HarryNguyen6678&icon=5&color=10)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tu%E1%BA%A5n-nguy%E1%BB%85n-12849b224/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Milkteaprism)
