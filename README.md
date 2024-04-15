@@ -3,7 +3,7 @@
 # 💫 About Me:
 I'm an VietNam developer 🧑‍💻 and designer 🎨
 🔭 I’m currently studying on Duy Tan University<br>
-🌱 I’m currently learning JS, HTML and CSS for my Front-end and Full-stack for Back-end<br>
+🌱 I’m currently learning JS, HTML and CSS for my Front-end, Back-end and Full-Stacks<br>
 📫 How to reach me: You can contact me through my email "canhdongtuyet39@gmail.com"<br>
 😄 Pronouns: He/him<br>
 [![](https://visitcount.itsvg.in/api?id=HarryNguyen6678&icon=5&color=10)](https://visitcount.itsvg.in)
