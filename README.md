@@ -1,9 +1,9 @@
 ### Hi Visitor 👋
 
 # 💫 About Me:
-🥸 Harry\n
-🏢Student\n
-📫 **canhdongtuyet39@gmail.com**\n
+🥸 Harry<br>
+🏢Student<br>
+📫 **canhdongtuyet39@gmail.com**<br>
 😄 Pronouns: He/him<br>
 ![rin drinking](https://github.com/HarryNguyen6678/HarryNguyen6678/assets/103439893/f4433af0-3c0b-4522-944f-3688876865a2)<br>
 [![](https://visitcount.itsvg.in/api?id=HarryNguyen6678&icon=5&color=10)](https://visitcount.itsvg.in)
