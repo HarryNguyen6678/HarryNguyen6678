@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Harry Nguyen and I'm a developer, from Viet Nam</h1>
+<h1 align="center">Hi 👋! My name is Harry Nguyen and I'm a programmer, from Viet Nam</h1>
 
 ### 💫 About Me:
 
